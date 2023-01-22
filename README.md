@@ -16,7 +16,7 @@ The problem X Education is facing is that they have a high volume of leads but a
 - Model Evaluation
 - ROC Curve
 - Prediction on test set
-- Precision- Recall
+- Precision- Recall.
 ## Details of files given
 - Lead Scoring Assignment Python Notebook : The python file showing coding and data analysis
 - Assignment Subjective Questions.pdf : Some subjective questions answered
